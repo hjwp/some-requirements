@@ -1,5 +1,5 @@
 BeautifulSoup==3.2.1
-Pygments==1.6
+Pygments==2.7.4
 backports-abc==0.5
 beanstalkc==0.3.0
 boto>=2.38.0
